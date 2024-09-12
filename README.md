@@ -60,16 +60,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InsiderP&show_icons=true&count_private=true&hide_border=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-</div>
-  
-
-<br/>  
-<br/>  
-
-
 ## Leetcode Stats  
 <div align="center">
   <a href="https://leetcode.com/u/user9776Q/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
