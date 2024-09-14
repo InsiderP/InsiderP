@@ -58,6 +58,9 @@
 
 <br/>  
 <br/>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=InsiderP" alt="InsiderP" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=InsiderP&show_icons=truecount_private=true&locale=en&layout=compact" alt="InsiderP" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=InsiderP&show_icons=true&count_private=true&hide_border=true" align="center" /></p>
 
