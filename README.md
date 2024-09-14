@@ -59,6 +59,15 @@
 <br/>  
 <br/>  
 
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=InsiderP&show_icons=true&count_private=true&hide_border=true" align="center" /></p>
+
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InsiderP&" alt="InsiderP" /></p>
+
+<p align="left">
+<a href="https://github.com/InsiderP"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InsiderP&theme=dracula" />
+</span></a> </p>
+<br/>
 
 ## Leetcode Stats  
 <div align="center">
